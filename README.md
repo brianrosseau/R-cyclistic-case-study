@@ -1,24 +1,6 @@
 # R-cyclistic-case-study
 Capstone project for Google Data Analytics Certification
 
----
-title: "Cyclistic Case Study - Visualizations"
-author: "Brian Rosseau"
-date: "2023-07-15"
-output:
-  html_document:
-    code_folding: hide
-    df_print: paged
-  pdf_document: default
-  html_notebook:
-    code_folding: hide
-    df_print: paged
----
-
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(warning = FALSE, message = FALSE)
-```
-
 ### 1. Load cleaned data set and packages
 ```{r read}
 total_tripdata_clean_5 <- read.csv("C:\\Users\\rosse\\OneDrive\\Documents\\Google Data Analytics\\Case Study - Bicycle Data\\07-05-23 total_tripdata_clean_5.csv")
