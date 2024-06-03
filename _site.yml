@@ -1,0 +1,11 @@
+name: "Cyclistic Case Study - A Capstone Project for Google Data Analytics Certification"
+navbar:
+  title: "Cyclistic Case Study"
+  left:
+    - text: "Home"
+      href: index.html
+    - text: "Final Report"
+      href: Cyclistic-Case-Study---Visualizations_final_version.html
+
+      
+output_dir: "docs"
