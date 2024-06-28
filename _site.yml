@@ -5,7 +5,7 @@ navbar:
     - text: "Home"
       href: index.html
     - text: "Final Report"
-      href: Cyclistic-Case-Study---Visualizations_final_version.html
+      href: Cyclistic_Case_Study_Visualizations_final_version.html
 
       
 output_dir: "docs"
